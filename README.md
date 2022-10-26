@@ -1,4 +1,4 @@
-<h1 align="center">I am a Full Stack & Blockchain Developer</h1>
+<h1 align="center">Full Stack & Blockchain Development</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
